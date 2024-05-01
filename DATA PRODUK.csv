@@ -1,0 +1,122 @@
+﻿NO BARANG,KATEGORI,MEREK,HARGA,STOCK,TERJUAL,TANGGAL MASUK
+1,Kosmetik,Wardah Lip Cream ,66500,10,20,09/01/2023
+2,Kosmetik,Wardah Sunscreen,32000,12,35,09/01/2023
+3,Kosmetik,Wardah Facial Wash,28000,17,10,09/01/2023
+4,Kosmetik,Wardah Facial Mask,20000,3,8,09/01/2023
+5,Kosmetik,Wardah Eye Shadow,95000,14,10,16/01/2023
+6,Kosmetik,Wardah Cushion,78000,14,15,16/01/2023
+7,Kosmetik,Wardah Mascara,57000,14,18,16/01/2023
+8,Kosmetik,Fit Me Powder,60000,14,16,16/01/2023
+9,Kosmetik,Maybelline Lip Mate,83000,14,23,23/01/2023
+10,Kosmetik,Maybelline Foundation,92000,14,19,23/01/2023
+11,Kosmetik,Maybelline Mascara,59000,14,17,23/01/2023
+12,Kosmetik,Maybelline Eyebrow,65000,14,15,23/01/2023
+13,Kosmetik,Emina Facial Wash,23000,14,28,30/01/2023
+14,Kosmetik,Emina Sunscreen ,18500,14,39,30/01/2023
+15,Kosmetik,Emina Powder,25500,14,26,30/01/2023
+16,Kosmetik,Emina Lip Serum ,30000,14,17,30/01/2023
+17,Kosmetik,Pixy Facial Wash,32000,14,26,06/02/2023
+18,Kosmetik,Pixy Powder,45000,14,30,06/02/2023
+19,Kosmetik,Pixy Cushion,74000,14,22,06/02/2023
+20,Kosmetik,Hanasui Lip Creame,23000,14,40,06/02/2023
+21,Minuman,Crystalin Air Mineral,2500,14,50,09/01/2023
+22,Minuman,Vit Air Mineral,4400,14,75,09/01/2023
+23,Minuman,Aqua Air Mineral ,3000,14,70,09/01/2023
+24,Minuman,Hydro Coco ,10700,14,55,09/01/2023
+25,Minuman,Adem Sari Chingku,8400,14,35,16/01/2023
+26,Minuman,Chimory Yoghurt Squeeze,8700,14,60,16/01/2023
+27,Minuman,Chimory Susu UHT ,6900,14,55,16/01/2023
+28,Minuman,Fruit Tea ,3900,14,65,16/01/2023
+29,Minuman,Niu Tea,3400,14,78,17/01/2023
+30,Minuman,Fresh Tea,3500,14,45,18/01/2023
+31,Minuman,Teh Kotak,4200,14,23,19/01/2023
+32,Minuman,Le Minerale ,3600,14,56,20/01/2023
+33,Minuman,Pocari Sweat ,7500,14,67,21/01/2023
+34,Minuman,Floridina ,3500,14,89,22/01/2023
+35,Minuman,Coca Cola,5400,14,24,23/01/2023
+36,Minuman,Teh Pucuk,3800,14,56,24/01/2023
+37,Minuman,Buavita,8900,14,78,25/01/2023
+38,Minuman,Nescafe ,7300,14,67,26/01/2023
+39,Minuman,Mogu Mogu ,11200,14,34,27/01/2023
+40,Minuman,Sprite,6200,14,32,28/01/2023
+41,Makanan,Happy Tos,11100,14,45,29/01/2023
+42,Makanan,Chitato,17200,14,44,30/01/2023
+43,Makanan,Monde Serena,4500,14,34,31/01/2023
+44,Makanan,Taro,5400,14,65,01/02/2023
+45,Makanan,Kacang Garuda ,10800,14,78,02/02/2023
+46,Makanan,Tic Tac ,6100,14,54,03/02/2023
+47,Makanan,Roma Sari Gandum,9800,14,67,04/02/2023
+48,Makanan,Yupi Gummy,5800,14,55,05/02/2023
+49,Makanan,Nextar,8800,14,79,06/02/2023
+50,Makanan,Oreo,7000,14,32,07/02/2023
+51,Makanan,Twister,9600,14,56,08/02/2023
+52,Makanan,Qtela,8700,14,78,09/02/2023
+53,Makanan,Silver Queen ,15400,14,43,10/02/2023
+54,Makanan,Good Time Cookies,8900,14,32,11/02/2023
+55,Makanan,Potabee ,11200,14,70,12/02/2023
+56,Makanan,Pillows Coklat,11700,14,54,13/02/2023
+57,Makanan,Nabati Richeese,9300,14,55,14/02/2023
+58,Makanan,Choco Pie,19100,14,67,15/02/2023
+59,Makanan,Sari roti ,6500,14,88,16/02/2023
+60,Makanan,Roma Kelapa,13500,14,43,17/02/2023
+61,Obat,Tolak Angin,22200,14,43,18/02/2023
+62,Obat,Imboost Vitamin,20500,14,22,19/02/2023
+63,Obat,Antangin,19400,14,43,20/02/2023
+64,Obat,Bye Bye Fever,8500,14,33,21/02/2023
+65,Obat,Hot In Cream,34500,14,23,22/02/2023
+66,Obat,Vicks,7200,14,67,23/02/2023
+67,Obat,Promag,2900,14,39,24/02/2023
+68,Obat,Hansaplast,7500,14,32,25/02/2023
+69,Obat,Neurobion,47300,14,30,26/02/2023
+70,Obat,Sangobion,8000,14,12,27/02/2023
+71,Obat,Fatigon,8600,14,34,28/02/2023
+72,Obat,Entrostop,8800,14,20,01/03/2023
+73,Obat,Betadine,29500,14,15,02/03/2023
+74,Obat,Renovit,44300,14,12,03/03/2023
+75,Obat,Diapet,6700,14,35,04/03/2023
+76,Obat,Xon ce,3400,14,32,05/03/2023
+77,Obat,Viostin Suplemen,36400,14,12,06/03/2023
+78,Obat,Enervon C,41500,14,23,07/03/2023
+79,Obat,Bejo,3700,14,44,08/03/2023
+80,Obat,Pharmaton,29500,14,12,09/03/2023
+81,Obat,Paracetamol,24500,14,40,10/03/2023
+82,Kebutuhan Pokok,Bonco Minyak Goreng,38400,14,80,11/03/2023
+83,Kebutuhan Pokok,Sania Minyak Goreng,34600,14,99,12/03/2023
+84,Kebutuhan Pokok,Raja Beras ,64500,14,65,13/03/2023
+85,Kebutuhan Pokok,Camar Minyak Goreng,39100,14,87,14/03/2023
+86,Kebutuhan Pokok,Sunco Minyak Goreng ,40700,14,65,15/03/2023
+87,Kebutuhan Pokok,Bimoli Minyak Goreng,35600,14,68,16/03/2023
+88,Kebutuhan Pokok,Raja Gula ,13500,14,54,17/03/2023
+89,Kebutuhan Pokok,Filma Minyak Goreng,38200,14,89,18/03/2023
+90,Kebutuhan Pokok,Gulaku ,13500,14,65,19/03/2023
+91,Kebutuhan Pokok,Gula Rose Brand,13800,14,78,20/03/2023
+92,Kebutuhan Pokok,Indomie,3800,14,54,21/03/2023
+93,Kebutuhan Pokok,Mie Sedap,3200,14,84,22/03/2023
+94,Kebutuhan Pokok,Pop Mie ,5800,14,35,23/03/2023
+95,Kebutuhan Pokok,Samyang Ramen,25500,14,64,24/03/2023
+96,Kebutuhan Pokok,Mie Gaga 100,3100,14,50,25/03/2023
+97,Kebutuhan Pokok,Super Bubur,3500,14,38,26/03/2023
+98,Kebutuhan Pokok,La fonte,25000,14,67,27/03/2023
+99,Kebutuhan Pokok,Bihunku,3600,14,86,28/03/2023
+100,Kebutuhan Pokok,Sarimi,4200,14,69,29/03/2023
+101,Kebutuhan Pokok,Nuget Fiesta,26500,14,90,30/03/2023
+102,Body Care,Kapas,8000,14,55,31/03/2023
+103,Body Care,Minyak Kayu Putih,14600,14,45,01/04/2023
+104,Body Care,Rexona,12900,14,78,02/04/2023
+105,Body Care,Makarizo Hair Mask,8900,14,56,03/04/2023
+106,Body Care,Nivea lotion,34000,14,84,04/04/2023
+107,Body Care,Biore Body Wash,14400,14,43,05/04/2023
+108,Body Care,Pantene Shampoo,33000,14,56,06/04/2023
+109,Body Care,Pantene Conditioner,18900,14,76,07/04/2023
+110,Body Care,Pepsodent ,6100,14,99,08/04/2023
+111,Body Care,Closeup ,8500,14,52,09/04/2023
+112,Body Care,Listerine,28000,14,52,10/04/2023
+113,Body Care,Giv Body Wash,22500,14,70,11/04/2023
+114,Body Care,Lifebuoy Body Wash,19900,14,58,12/04/2023
+115,Body Care,Lifebuoy Shampoo,32900,14,67,13/04/2023
+116,Body Care,Dettol Body Wash,10900,14,54,14/04/2023
+117,Body Care,Lux Body Wash,19000,14,89,15/04/2023
+118,Body Care,Formula Sikat Gigi,5300,14,65,16/04/2023
+119,Body Care,Sunsilk Shampoo,15500,14,56,17/04/2023
+120,Body Care,Sensodyne,49500,14,76,18/04/2023
+121,Body Care,Clear Shampoo,27400,14,77,19/04/2023
